@@ -7,7 +7,8 @@ Studying for an MSc in FinTech with Business Analytics at the University of West
 
 - **Data:** SQL, Python (pandas, NumPy, scikit-learn), SQLite, MongoDB, data pipelines
 - **BI & visualisation:** Power BI, Excel, Dash/Plotly dashboards
-- **Analytics & ML:** time series forecasting (ARMA, GARCH), regression, classification, clustering, deep learning
+- **Analytics & ML:** time series forecasting (ARMA, GARCH), regression, classification, clustering
+- **Deep learning:** PyTorch, CNNs, transfer learning, RNNs and LSTMs, autoencoders, GANs, object detection, face recognition, Stable Diffusion
 
 ## Projects
 
@@ -17,6 +18,34 @@ Studying for an MSc in FinTech with Business Analytics at the University of West
 | Financial Forecasting | API to SQLite pipeline that forecasts stock volatility | Python, SQLite, time series |
 | Air Quality Forecasting | Trend analysis and forecasts from MongoDB sensor data | Python, MongoDB |
 | Customer Segmentation | Clustering and PCA on the US Survey of Consumer Finances, with a dashboard | scikit-learn, Plotly |
+
+### Computer vision projects (Applied AI Lab, WorldQuant University, 2025)
+
+| Project | What it does | Techniques |
+|---|---|---|
+| Wildlife Conservation, Côte d'Ivoire | Classifies animals in camera-trap images | Neural network image classification |
+| Crop Disease, Uganda | Classifies crop-disease images into five categories | CNNs, pre-trained models |
+| Traffic Monitoring, Dhaka | Detects vehicles and other objects in traffic video | Real-time object detection, custom training |
+| Face Recognition in Video | Detects and recognises faces in a video interview, served in a web app | MTCNN, Inception-ResNet, Flask |
+| Medical Image Generation | Generates synthetic medical images such as X-rays | GANs, Streamlit |
+| Marketing Image Generation | Creates meme-style marketing images from text prompts | Stable Diffusion fine-tuning, Streamlit |
+
+### Deep learning projects (Deep Learning Fundamentals Lab, WorldQuant University, 2025)
+
+| Project | Techniques |
+|---|---|
+| Concrete strength prediction | PyTorch regression, multi-layer perceptron |
+| Heart disease diagnosis | Neural network classification |
+| Protein localisation (yeast data) | Multiclass classification, regularisation, class imbalance |
+| CIFAR-10 image classification | Deep networks, LeNet, AlexNet |
+| Pet breed classification | CNNs, VGG |
+| Plant seedling classification | Transfer learning, data augmentation |
+| Human activity recognition | RNNs on smartphone sensor data |
+| Weather forecasting | LSTM and GRU sequence models |
+| Facial expression compression | Autoencoders and variational autoencoders |
+| Art generation | GANs and DCGANs |
+| Caltech 101 fine-tuning | Pre-trained ResNet and VGG |
+| Responsible and sustainable AI | Dataset bias, deepfakes and energy use case studies |
 
 ## Certifications
 
