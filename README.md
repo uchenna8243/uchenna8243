@@ -8,7 +8,7 @@ Studying for an MSc in FinTech with Business Analytics at the University of West
 - **Data:** SQL, Python (pandas, NumPy, scikit-learn), SQLite, MongoDB, data pipelines
 - **BI & visualisation:** Power BI, Excel, Dash/Plotly dashboards
 - **Analytics & ML:** time series forecasting (ARMA, GARCH), regression, classification, clustering
-- **Deep learning:** PyTorch, CNNs, transfer learning, RNNs and LSTMs, autoencoders, GANs, object detection, face recognition, Stable Diffusion
+- **Deep learning:** PyTorch, neural networks, CNNs, transfer learning, GANs, object detection, face recognition, Stable Diffusion
 
 ## Projects
 
@@ -40,12 +40,6 @@ Studying for an MSc in FinTech with Business Analytics at the University of West
 | CIFAR-10 image classification | Deep networks, LeNet, AlexNet |
 | Pet breed classification | CNNs, VGG |
 | Plant seedling classification | Transfer learning, data augmentation |
-| Human activity recognition | RNNs on smartphone sensor data |
-| Weather forecasting | LSTM and GRU sequence models |
-| Facial expression compression | Autoencoders and variational autoencoders |
-| Art generation | GANs and DCGANs |
-| Caltech 101 fine-tuning | Pre-trained ResNet and VGG |
-| Responsible and sustainable AI | Dataset bias, deepfakes and energy use case studies |
 
 ## Certifications
 
