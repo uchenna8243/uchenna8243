@@ -1,6 +1,6 @@
 # Uchenna Francis Onyeka
 
-**Data analyst** combining SQL, Python and Power BI with 10+ years of business and management experience.
+**Data scientist/analyst** combining SQL, Python and Power BI with 10+ years of business and management experience.
 Studying for an MSc in FinTech with Business Analytics at the University of Westminster (2026–2027).
 
 ## What I work with
