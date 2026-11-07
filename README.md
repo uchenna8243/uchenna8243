@@ -3,6 +3,13 @@
 **Data scientist/analyst** combining SQL, Python and Power BI with 10+ years of business and management experience.
 Studying for an MSc in FinTech with Business Analytics at the University of Westminster (2026–2027).
 
+Open to data scientist, data analyst and business analyst roles: remote, hybrid or on-site, in the UK, US and worldwide.
+
+## Business impact
+
+- **General Manager, The Jays Cinema:** led over 20 staff serving around 270 customers a week; helped grow ticket sales by 20% year on year and cut concession waste by 15%
+- **Assistant Manager, Kingdom Pharmaceuticals:** built an Excel tracker for over 70 products and cut overstock and expiry losses by 35%
+
 ## What I work with
 
 - **Data:** SQL, Python (pandas, NumPy, scikit-learn), SQLite, MongoDB, data pipelines
